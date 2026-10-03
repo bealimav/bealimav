@@ -1,32 +1,38 @@
 # ✨Beatriz Lima
 
+
 **`Apaixonada por tecnologia, dados e finanças`**
 
-Sou formada pela Etec em Desenvolvimento de Sistemas e atualmente estudo Engenharia de Software na FIAP. Hoje trabalho no Itaú com produtação digital e exploro minha paixão por dados, analytics e negócios. 
+Sou formada pela Etec em Desenvolvimento de Sistemas e atualmente estudo Engenharia de Software na FIAP. Hoje trabalho no Itaú com produtos digitais e exploro minha paixão por dados, analytics e negócios. 
 
 Produto me ensinou a entender o problema. Dados me desafiaram a entender a estrutura por trás dele. E, por isso, estou direcionando minha carreira para Engenharia de Dados, aprofundando conhecimentos em SQL, Python, AWS, modelagem de dados, ETL/ELT e pipelines.
 
 Amo ajudar outras pessoas, e é isso que me motiva na Active Money, empresa que cofundei para ensinar educação financeira de forma prática e acessível, mostrando às pessoas como organizar melhor seu dinheiro e tomar decisões mais conscientes.
-<hr>
+
 
 ### 📌 Interesses & Conceitos
 
-Engenharia de Dados · Data Analytics · Data Quality · Data Visualization· Modelagem de Dados · Camadas SoR, SoT e Spec 
+Engenharia de Dados · Data Analytics · Data Quality · Data Visualization · Modelagem de Dados · Camadas SoR, SoT e Spec 
 <hr>
 
 ### 🤖 Ferramentas & Linguagens
 
 <div style="display: inline-block">
-	<img align="center" alt="Bia-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-    <img align="center" alt="Bia-ApacheSpark" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"/>
-    <img align="center" alt="Bia-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-    <img align="center" alt="Bia-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-    <img align="center" alt="Bia-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-    <img align="center" alt="Bia-DynamoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg"/>
-    <img align="center" alt="Bia-SQLDeveloper" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg"/>
-	<img align="center" alt="Bia-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/>
-    
- </div>
+    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+    <img align="center" alt="S3" height="30" width="40" src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons_01312022/Arch_Storage/64/Arch_Amazon-Simple-Storage-Service_64.svg"/>
+    <img align="center" alt="DynamoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg"/>
+    <img align="center" alt="Athena" height="30" width="40" src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons_01312022/Arch_Analytics/Arch_64/Arch_Amazon-Athena_64.svg"/>
+    <img align="center" alt="Glue" height="30" width="40" src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons_01312022/Arch_Analytics/Arch_64/Arch_AWS-Glue_64.svg"/>
+    <img align="center" alt="Lambda" height="30" width="40" src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons_01312022/Arch_Compute/64/Arch_AWS-Lambda_64.svg"/>
+    <img align="center" alt="Spark" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"/>
+    <img align="center" alt="Databricks" height="30" width="40" src="https://cdn.simpleicons.org/databricks/FF3621"/>
+    <img align="center" alt="QuickSight" height="30" width="40" src="https://raw.githubusercontent.com/weibeld/aws-icons-svg/main/q1-2022/Architecture-Service-Icons_01312022/Arch_Analytics/Arch_64/Arch_Amazon-QuickSight_64.svg"/>
+    <img align="center" alt="Power BI" height="30" width="40" src="https://api.iconify.design/simple-icons/powerbi.svg?color=%23F2C811"/>
+    <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+    <img align="center" alt="Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/>
+</div>
+
 
 <hr> 
 
@@ -50,11 +56,12 @@ Engenharia de Dados · Data Analytics · Data Quality · Data Visualization· Mo
 ### 🎓 Certificações
 
 - ✅ Proficiência em Inglês B2 pela LSI Brighton
-- ✅ Artificial Intelligence Fundamentals pela IBM SkillBuild
-- ✅ AWS Generative AI Foundations pela AWS Academy
+- ✅ Artificial Intelligence Fundamentals pela IBM SkillsBuild
+- ✅ AWS Certified AI Practitioner pela AWS Academy
 - ✅ AWS Cloud Foundations pela AWS Academy
 - 🔜 AWS Cloud Practitioner
 
+<hr>
 
 ### 📱 Redes Socias
 <div>
@@ -63,7 +70,7 @@ Engenharia de Dados · Data Analytics · Data Quality · Data Visualization· Mo
 	  <a href = "mailto:beatrizdeoliveira.lima1302@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-### 💛 Active Money
+### 💛 Conheça a Active Money
 <div>
   	<a href="https://www.instagram.com/_active_money" target="_blank"><img alt="AC-Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a> 
    	<a href="https://www.linkedin.com/company/active-money/" target="_blank"><img alt="AC-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a> 
@@ -72,8 +79,8 @@ Engenharia de Dados · Data Analytics · Data Quality · Data Visualization· Mo
 	<a href="https://linktr.ee/_active_money?utm_source=linktree_profile_share&ltsid=ea18dbb3-d40a-42cd-bf42-ad3c2ea58cc9" target="_blank"><img alt="AC-Linktree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"/></a>
 </div>
 
- <picture>
-	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake-dark.svg">
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
-	  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AecioJose/AecioJose/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bealimav/bealimav/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bealimav/bealimav/output/github-contribution-grid-snake.svg">
+  <img alt="Animação da cobrinha no gráfico de contribuições" src="https://raw.githubusercontent.com/bealimav/bealimav/output/github-contribution-grid-snake.svg">
 </picture>
