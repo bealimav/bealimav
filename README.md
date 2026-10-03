@@ -2,24 +2,31 @@
 
 **`Apaixonada por tecnologia, dados e finanças`**
 
-Sou Beatriz Lima, formada pela Etec em Desenvolvimento de Sistemas e atualmente estudando Engenharia de Software na FIAP. Hoje sou estagiária de TI no Itaú, explorando meu lado de desenvolvimento e minha paixão por dados, analytics e negócios. Amo ajudar outras pessoas, e é isso que me motiva na Active Money, empresa que cofundei para ensinar educação financeira de forma prática e acessível, mostrando às pessoas como organizar melhor seu dinheiro e tomar decisões mais conscientes.
+Sou formada pela Etec em Desenvolvimento de Sistemas e atualmente estudo Engenharia de Software na FIAP. Hoje trabalho no Itaú com produtação digital e exploro minha paixão por dados, analytics e negócios. 
+
+Produto me ensinou a entender o problema. Dados me desafiaram a entender a estrutura por trás dele. E, por isso, estou direcionando minha carreira para Engenharia de Dados, aprofundando conhecimentos em SQL, Python, AWS, modelagem de dados, ETL/ELT e pipelines.
+
+Amo ajudar outras pessoas, e é isso que me motiva na Active Money, empresa que cofundei para ensinar educação financeira de forma prática e acessível, mostrando às pessoas como organizar melhor seu dinheiro e tomar decisões mais conscientes.
 <hr>
 
-### 🤖 Tecnologias & Linguagens
+### 📌 Interesses & Conceitos
+
+Engenharia de Dados · Data Analytics · Data Quality · Data Visualization· Modelagem de Dados · Camadas SoR, SoT e Spec 
+<hr>
+
+### 🤖 Ferramentas & Linguagens
 
 <div style="display: inline-block">
-    <img align="center" alt="Bia-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-    <img align="center" alt="Bia-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-    <img align="center" alt="Bia-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+	<img align="center" alt="Bia-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+    <img align="center" alt="Bia-ApacheSpark" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"/>
+    <img align="center" alt="Bia-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
     <img align="center" alt="Bia-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-    <img align="center" alt="Bia-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>    
-    <img align="center" alt="Bia-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-    <img align="center" alt="Bia-JSON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"/>     
-    <img align="center" alt="Bia-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-    <img align="center" alt="Bia-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"/>
-    <img align="center" alt="Bia-PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>
-    <img align="center" alt="Bia-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
-</div>
+    <img align="center" alt="Bia-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+    <img align="center" alt="Bia-DynamoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg"/>
+    <img align="center" alt="Bia-SQLDeveloper" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg"/>
+	<img align="center" alt="Bia-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/>
+    
+ </div>
 
 <hr> 
 
@@ -31,6 +38,23 @@ Sou Beatriz Lima, formada pela Etec em Desenvolvimento de Sistemas e atualmente 
 </div>
 
 <hr> 
+
+### 🏆 Reconhecimentos
+
+- 🥈 2º lugar no programa Talentos em Ação do Itaú, com o PlanejaAÍ, solução de recuperação inteligente
+- 🥇 1º lugar no Hackathon Acadêmico de Robótica Paula Souza 
+- 🥇 1º lugar no EmpreendeSim na USP
+
+<hr>
+
+### 🎓 Certificações
+
+- ✅ Proficiência em Inglês B2 pela LSI Brighton
+- ✅ Artificial Intelligence Fundamentals pela IBM SkillBuild
+- ✅ AWS Generative AI Foundations pela AWS Academy
+- ✅ AWS Cloud Foundations pela AWS Academy
+- 🔜 AWS Cloud Practitioner
+
 
 ### 📱 Redes Socias
 <div>
