@@ -3,9 +3,9 @@
 
 **`Apaixonada por tecnologia, dados e finanças`**
 
-Sou formada pela Etec em Desenvolvimento de Sistemas e atualmente estudo Engenharia de Software na FIAP. Hoje trabalho no Itaú com produtos digitais e exploro minha paixão por dados, analytics e negócios. 
+Sou formada pela Etec em Desenvolvimento de Sistemas e estudo Engenharia de Software na FIAP. Hoje sou estagiária de Engenharia de Dados no Itaú, onde coloco em prática minha paixão por dados, analytics e negócios.
 
-Produto me ensinou a entender o problema. Dados me desafiaram a entender a estrutura por trás dele. E, por isso, estou direcionando minha carreira para Engenharia de Dados, aprofundando conhecimentos em SQL, Python, AWS, modelagem de dados, ETL/ELT e pipelines.
+Construo minha carreira em Engenharia de Dados, aprofundando meus conhecimentos em SQL, Python, AWS, modelagem de dados, ETL/ELT e pipelines.
 
 Amo ajudar outras pessoas, e é isso que me motiva na Active Money, empresa que cofundei para ensinar educação financeira de forma prática e acessível, mostrando às pessoas como organizar melhor seu dinheiro e tomar decisões mais conscientes.
 
