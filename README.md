@@ -40,7 +40,7 @@ Engenharia de Dados · Data Analytics · Data Quality · Data Visualization · M
 
 <div>
 	<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=bealimav&show_icons=true&theme=tokyonight&locale=pt-br&commits_year=2026&hide=contribs&hide_rank=true&v=3"/>
-	<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bealimav&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9&v=2"/>
+	<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bealimav&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9&v=4"/>
 </div>
 <hr>
 
