@@ -16,7 +16,7 @@ Desenvolvi uma jornada completa com projetos práticos na AWS, evoluindo de pipe
 
 <p align="left">
   <a href="https://github.com/bealimav/data-engineering-portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_Acessar_Meu_Portfólio-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio de Engenharia de Dados"/>
+    <img src="https://img.shields.io/badge/🔗_Acessar_Meu_Portfólio-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio de Engenharia de Dados"/>
   </a>
 </p>
 
