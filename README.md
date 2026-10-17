@@ -9,6 +9,10 @@ Construo minha carreira em Engenharia de Dados, aprofundando meus conhecimentos 
 
 Amo ajudar outras pessoas, e é isso que me motiva na Active Money, empresa que cofundei para ensinar educação financeira de forma prática e acessível, mostrando às pessoas como organizar melhor seu dinheiro e tomar decisões mais conscientes.
 
+### 🚀 Meu Portfólio de Engenharia de Dados
+Desenvolvi uma jornada completa com projetos práticos na AWS, evoluindo de pipelines serverless até dashboards com Inteligência Artificial. 
+
+👉 **[Clique aqui para acessar o meu Portfólio Completo](https://github.com/bealimav/data-engineering-portfolio)**
 
 ### 📌 Interesses & Conceitos
 
