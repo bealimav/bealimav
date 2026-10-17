@@ -12,9 +12,13 @@ Amo ajudar outras pessoas, e é isso que me motiva na Active Money, empresa que 
 <hr>
 
 ### 🚀 Meu Portfólio de Engenharia de Dados
-Desenvolvi uma jornada completa com projetos práticos na AWS, evoluindo de pipelines serverless até dashboards com Inteligência Artificial. 
+Desenvolvi uma jornada completa com projetos práticos na AWS, evoluindo de pipelines serverless e Infrastructure as Code (Terraform) até Qualidade de Dados, FinOps e Dashboards com IA 
 
-👉 **(https://github.com/bealimav/data-engineering-portfolio)**
+<p align="left">
+  <a href="https://github.com/bealimav/data-engineering-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Acessar_Meu_Portfólio-1E90FF?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio de Engenharia de Dados"/>
+  </a>
+</p>
 
 <hr>
 
