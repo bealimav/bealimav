@@ -3,7 +3,7 @@
 
 **`Apaixonada por tecnologia, dados e finanças`**
 
-Sou formada pela Etec em Desenvolvimento de Sistemas e estudo Engenharia de Software na FIAP. Hoje sou estagiária de Engenharia de Dados no Itaú, onde coloco em prática minha paixão por dados, analytics e negócios.
+Sou formada pela Etec em Desenvolvimento de Sistemas e estudo Engenharia de Software na FIAP. Hoje, sou estagiária de Engenharia de Dados no Itaú, onde coloco em prática minha paixão por dados, analytics e negócios.
 
 Construo minha carreira em Engenharia de Dados, aprofundando meus conhecimentos em SQL, Python, AWS, modelagem de dados, ETL/ELT e pipelines.
 
