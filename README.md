@@ -59,7 +59,7 @@ Engenharia de Dados · Data Analytics · Data Quality · Data Visualization · M
 ### 🏆 Reconhecimentos
 
 - 🥈 2º lugar no programa Talentos em Ação do Itaú, com o PlanejaAÍ, solução de recuperação inteligente
-- 🥇 1º lugar no Hackathon Acadêmico de Robótica Paula Souza 
+- 🥇 1º lugar no Hackathon Acadêmico de Robótica Paula Souza
 - 🥇 1º lugar no EmpreendeSim na USP
 
 <hr>
@@ -68,15 +68,13 @@ Engenharia de Dados · Data Analytics · Data Quality · Data Visualization · M
 
 - ✅ Proficiência em Inglês B2 pela LSI Brighton
 - ✅ Artificial Intelligence Fundamentals pela IBM SkillsBuild
-- ✅ AWS Certified AI Practitioner pela AWS Academy
-- ✅ AWS Cloud Foundations pela AWS Academy
-- 🔜 AWS Cloud Practitioner
+- ✅ AWS Certified Cloud Practitioner (CLF-C02) 
+- 🔜 AWS Certified Data Engineer - Associate (DEA-C01)
 
 <hr>
 
 ### 📱 Redes Socias
-<div>
-  	<a href="https://www.instagram.com/bealimav" target="_blank"><img alt="Bia-Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a> 
+<div> 
    	<a href="https://www.linkedin.com/in/beatriz-de-oliveira-lima/" target="_blank"><img alt="Bia-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a> 
 	  <a href = "mailto:beatrizdeoliveira.lima1302@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
